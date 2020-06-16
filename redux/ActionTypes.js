@@ -1,0 +1,5 @@
+export const ROUTES_LOADING = 'ROUTES_LOADING';
+export const ROUTES_FAILED = 'ROUTES_FAILED';
+
+
+
